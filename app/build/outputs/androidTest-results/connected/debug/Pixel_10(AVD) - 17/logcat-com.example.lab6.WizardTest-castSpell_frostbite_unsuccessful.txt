@@ -1,0 +1,2 @@
+10-14 17:51:55.627 12071 12085 I TestRunner: started: castSpell_frostbite_unsuccessful(com.example.lab6.WizardTest)
+10-14 17:51:55.629 12071 12085 I TestRunner: finished: castSpell_frostbite_unsuccessful(com.example.lab6.WizardTest)

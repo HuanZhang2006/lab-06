@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="4" failures="0" errors="0" skipped="0" time="0.000" timestamp="2026-10-14T23:51:56" hostname="localhost">
+  <testsuite name="com.example.lab6.WizardTest" tests="4" failures="0" errors="0" skipped="0" time="0.001" timestamp="2026-10-14T23:51:56" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="castSpell_explosion_unsuccessful" classname="com.example.lab6.WizardTest" time="0.001" />
+    <testcase name="castSpell_explosion_successful" classname="com.example.lab6.WizardTest" time="0.000" />
+    <testcase name="castSpell_frostbite_unsuccessful" classname="com.example.lab6.WizardTest" time="0.000" />
+    <testcase name="castSpell_frostbite_successful" classname="com.example.lab6.WizardTest" time="0.000" />
+  </testsuite>
+</testsuites>

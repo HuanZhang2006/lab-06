@@ -1,0 +1,2 @@
+10-14 17:51:55.615 12071 12085 I TestRunner: started: castSpell_explosion_unsuccessful(com.example.lab6.WizardTest)
+10-14 17:51:55.621 12071 12085 I TestRunner: finished: castSpell_explosion_unsuccessful(com.example.lab6.WizardTest)

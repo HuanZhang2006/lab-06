@@ -1,0 +1,5 @@
+com.example.lab6.test.app-updated_navigation_xml-0 /Users/huanzhang/code/CMPUT301/lab6/lab-06/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.example.lab6.test.app-packageDebugAndroidTestResources-1 /Users/huanzhang/code/CMPUT301/lab6/lab-06/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/merged.dir
+com.example.lab6.test.app-packageDebugAndroidTestResources-2 /Users/huanzhang/code/CMPUT301/lab6/lab-06/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/stripped.dir
+com.example.lab6.test.app-debugAndroidTest-3 /Users/huanzhang/code/CMPUT301/lab6/lab-06/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+gradleHome-0 /Users/huanzhang/.gradle
